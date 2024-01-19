@@ -488,6 +488,146 @@ const palavras = [
         nome: 'VIETNA',
         categoria: 'LUGARES'
     },
+    palavra00121 = {
+        nome: 'ABAJUR',
+        categoria: 'OBJETOS'
+    },
+    palavra00122 = {
+        nome: 'AGULHA',
+        categoria: 'OBJETOS'
+    },
+    palavra00122 = {
+        nome: 'ALFINETE',
+        categoria: 'OBJETOS'
+    },
+    palavra00123 = {
+        nome: 'ALGEMA',
+        categoria: 'OBJETOS'
+    },
+    palavra00124 = {
+        nome: 'ALICATE',
+        categoria: 'OBJETOS'
+    },
+    palavra00125 = {
+        nome: 'ALMOFADA',
+        categoria: 'OBJETOS'
+    },
+    palavra00126 = {
+        nome: 'AMPULHETA',
+        categoria: 'OBJETOS'
+    },
+    palavra00127 = {
+        nome: 'ANCORA',
+        categoria: 'OBJETOS'
+    },
+    palavra00128 = {
+        nome: 'ANEL',
+        categoria: 'OBJETOS'
+    },
+    palavra00129 = {
+        nome: 'ANTENA',
+        categoria: 'OBJETOS'
+    },
+    palavra00130 = {
+        nome: 'ANZOL',
+        categoria: 'OBJETOS'
+    },
+    palavra00131 = {
+        nome: 'APAGADOR',
+        categoria: 'OBJETOS'
+    },
+    palavra00132 = {
+        nome: 'APITO',
+        categoria: 'OBJETOS'
+    },
+    palavra00133 = {
+        nome: 'ARCO',
+        categoria: 'OBJETOS'
+    },
+    palavra00134 = {
+        nome: 'ARMADURA',
+        categoria: 'OBJETOS'
+    },
+    palavra00135 = {
+        nome: 'ARPAO',
+        categoria: 'OBJETOS'
+    },
+    palavra00136 = {
+        nome: 'BACIA',
+        categoria: 'OBJETOS'
+    },
+    palavra00136 = {
+        nome: 'BALANCA',
+        categoria: 'OBJETOS'
+    },
+    palavra00137 = {
+        nome: 'BALDE',
+        categoria: 'OBJETOS'
+    },
+    palavra00138 = {
+        nome: 'BANCO',
+        categoria: 'OBJETOS'
+    },
+    palavra00139 = {
+        nome: 'BANDEIRA',
+        categoria: 'OBJETOS'
+    },
+    palavra00140 = {
+        nome: 'BAZUCA',
+        categoria: 'OBJETOS'
+    },
+    palavra00141 = {
+        nome: 'BENGALA',
+        categoria: 'OBJETOS'
+    },
+    palavra00142 = {
+        nome: 'BICICLETA',
+        categoria: 'OBJETOS'
+    },
+    palavra00143 = {
+        nome: 'BIRGONA',
+        categoria: 'OBJETOS'
+    },
+    palavra00144 = {
+        nome: 'BINOCULO',
+        categoria: 'OBJETOS'
+    },
+    palavra00145 = {
+        nome: 'BOIA',
+        categoria: 'OBJETOS'
+    },
+    palavra00146 = {
+        nome: 'BOLA',
+        categoria: 'OBJETOS'
+    },
+    palavra00147 = {
+        nome: 'BONECA',
+        categoria: 'OBJETOS'
+    },
+    palavra00148 = {
+        nome: 'BOTAO',
+        categoria: 'OBJETOS'
+    },
+    palavra00149 = {
+        nome: 'BRINCO',
+        categoria: 'OBJETOS'
+    },
+    palavra00150 = {
+        nome: 'BRINCO',
+        categoria: 'OBJETOS'
+    },
+    palavra00149 = {
+        nome: 'BULE',
+        categoria: 'OBJETOS'
+    },
+    palavra00149 = {
+        nome: 'BUMERANGUE',
+        categoria: 'OBJETOS'
+    },
+    palavra00149 = {
+        nome: 'BUSSOLA',
+        categoria: 'OBJETOS'
+    },
     
     
 ]
