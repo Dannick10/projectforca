@@ -847,13 +847,14 @@ let transformlife = vida
 
 score.classList.toggle('disp')
 
-document.querySelector('#categoria').innerHTML=cdavez
+
 
 function inicio(){
     let escolha = escolhadepalavras()
     pdavez = escolha.nome 
     cdavez = escolha.categoria
     tamanhobox(pdavez)
+    document.querySelector('#categoria').innerHTML=cdavez
 }
 
 function criarBox(p){
