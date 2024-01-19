@@ -613,19 +613,207 @@ const palavras = [
         categoria: 'OBJETOS'
     },
     palavra00150 = {
-        nome: 'BRINCO',
+        nome: 'BIRUTA',
         categoria: 'OBJETOS'
     },
     palavra00149 = {
         nome: 'BULE',
         categoria: 'OBJETOS'
     },
-    palavra00149 = {
+    palavra00150 = {
         nome: 'BUMERANGUE',
         categoria: 'OBJETOS'
     },
-    palavra00149 = {
-        nome: 'BUSSOLA',
+    palavra00151 = {
+        nome: 'CABIDE',
+        categoria: 'OBJETOS'
+    },
+    palavra00152 = {
+        nome: 'CADEADO',
+        categoria: 'OBJETOS'
+    },
+    palavra00153 = {
+        nome: 'CADEIRA',
+        categoria: 'OBJETOS'
+    },
+    palavra00154 = {
+        nome: 'CADERNO',
+        categoria: 'OBJETOS'
+    },
+    palavra00155 = {
+        nome: 'CAJADO',
+        categoria: 'OBJETOS'
+    },
+    palavra00156 = {
+        nome: 'CALCULADORA',
+        categoria: 'OBJETOS'
+    },
+    palavra00156 = {
+        nome: 'CALICE',
+        categoria: 'OBJETOS'
+    },
+    palavra00157 = {
+        nome: 'CAMPAINHA',
+        categoria: 'OBJETOS'
+    },
+    palavra00158 = {
+        nome: 'CANECA',
+        categoria: 'OBJETOS'
+    },
+    palavra00159 = {
+        nome: 'CANETA',
+        categoria: 'OBJETOS'
+    },
+    palavra00160 = {
+        nome: 'CANIVETE',
+        categoria: 'OBJETOS'
+    },
+    palavra00170 = {
+        nome: 'CAPACETE',
+        categoria: 'OBJETOS'
+    },
+    palavra00171 = {
+        nome: 'CASSETETE',
+        categoria: 'OBJETOS'
+    },
+    palavra00172 = {
+        nome: 'CELULAR',
+        categoria: 'OBJETOS'
+    },
+    palavra00173 = {
+        nome: 'CHINELO',
+        categoria: 'OBJETOS'
+    },
+    palavra00174 = {
+        nome: 'CHUPETA',
+        categoria: 'OBJETOS'
+    },
+    palavra00175 = {
+        nome: 'COLHER',
+        categoria: 'OBJETOS'
+    },
+    palavra00176 = {
+        nome: 'COLCHAO',
+        categoria: 'OBJETOS'
+    },
+    palavra00177 = {
+        nome: 'COMPUTADOR',
+        categoria: 'OBJETOS'
+    },
+    palavra00178 = {
+        nome: 'COPO',
+        categoria: 'OBJETOS'
+    },
+    palavra00179 = {
+        nome: 'DADO',
+        categoria: 'OBJETOS'
+    },
+    palavra00180 = {
+        nome: 'DARDO',
+        categoria: 'OBJETOS'
+    },
+    palavra00181 = {
+        nome: 'DELINEADOR',
+        categoria: 'OBJETOS'
+    },
+    palavra00182 = {
+        nome: 'DESENTUPIDOR',
+        categoria: 'OBJETOS'
+    },
+    palavra00183 = {
+        nome: 'DESODORANTE',
+        categoria: 'OBJETOS'
+    },
+    palavra00184 = {
+        nome: 'DESPERTADOR',
+        categoria: 'OBJETOS'
+    },
+    palavra00185 = {
+        nome: 'DIAMANTE',
+        categoria: 'OBJETOS'
+    },
+    palavra00186 = {
+        nome: 'DIARIO',
+        categoria: 'OBJETOS'
+    },
+    palavra00187 = {
+        nome: 'DICIONARIO',
+        categoria: 'OBJETOS'
+    },
+    palavra00188 = {
+        nome: 'DRONE',
+        categoria: 'OBJETOS'
+    },
+    palavra00189 = {
+        nome: 'DISQUETE',
+        categoria: 'OBJETOS'
+    },
+    palavra00190 = {
+        nome: 'DOBRADICA',
+        categoria: 'OBJETOS'
+    },
+    palavra00191 = {
+        nome: 'DOMINO',
+        categoria: 'OBJETOS'
+    },
+    palavra00192 = {
+        nome: 'ESCADA',
+        categoria: 'OBJETOS'
+    },
+    palavra00193 = {
+        nome: 'ESCOPETA',
+        categoria: 'OBJETOS'
+    },
+    palavra00194 = {
+        nome: 'ELASTICO',
+        categoria: 'OBJETOS'
+    },
+    palavra00195 = {
+        nome: 'ENVELOPE',
+        categoria: 'OBJETOS'
+    },
+    palavra00196 = {
+        nome: 'ENXADA',
+        categoria: 'OBJETOS'
+    },
+    palavra00197= {
+        nome: 'ESCOVA',
+        categoria: 'OBJETOS'
+    },
+    palavra00198= {
+        nome: 'ESCUDO',
+        categoria: 'OBJETOS'
+    },
+    palavra00199= {
+        nome: 'ESFREGAO',
+        categoria: 'OBJETOS'
+    },
+    palavra00200= {
+        nome: 'ESPADA',
+        categoria: 'OBJETOS'
+    },
+    palavra00201= {
+        nome: 'ESPELHO',
+        categoria: 'OBJETOS'
+    },
+    palavra00202= {
+        nome: 'ESPINGARDA',
+        categoria: 'OBJETOS'
+    },
+    palavra00203= {
+        nome: 'ESPONJA',
+        categoria: 'OBJETOS'
+    },
+    palavra00204= {
+        nome: 'ESTATUA',
+        categoria: 'OBJETOS'
+    },
+    palavra00205= {
+        nome: 'ESTEIRA',
+        categoria: 'OBJETOS'
+    },
+    palavra00206= {
+        nome: 'ESTOJO',
         categoria: 'OBJETOS'
     },
     
