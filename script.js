@@ -244,6 +244,250 @@ const palavras = [
         nome: 'HAITI',
         categoria: 'LUGARES'
     },
+    palavra0061 = {
+        nome: 'HOLANDA',
+        categoria: 'LUGARES'
+    },
+    palavra0062 = {
+        nome: 'HONDURAS',
+        categoria: 'LUGARES'
+    },
+    palavra0063 = {
+        nome: 'HUNGRIA',
+        categoria: 'LUGARES'
+    },
+    palavra0064 = {
+        nome: 'IEMEN',
+        categoria: 'LUGARES'
+    },
+    palavra0065 = {
+        nome: 'INDIA',
+        categoria: 'LUGARES'
+    },
+    palavra0066 = {
+        nome: 'INDONESIA',
+        categoria: 'LUGARES'
+    },
+    palavra0067 = {
+        nome: 'INGLATERRA',
+        categoria: 'LUGARES'
+    },
+    palavra0068 = {
+        nome: 'IRA',
+        categoria: 'LUGARES'
+    },
+    palavra0069 = {
+        nome: 'IRAQUE',
+        categoria: 'LUGARES'
+    },
+    palavra0070 = {
+        nome: 'IRLANDA',
+        categoria: 'LUGARES'
+    },
+    palavra0071 = {
+        nome: 'ISLANDIA',
+        categoria: 'LUGARES'
+    },
+    palavra0072 = {
+        nome: 'ISRAEL',
+        categoria: 'LUGARES'
+    },
+    palavra0073 = {
+        nome: 'ITALIA',
+        categoria: 'LUGARES'
+    },
+    palavra0074 = {
+        nome: 'JAMAICA',
+        categoria: 'LUGARES'
+    },
+    palavra0075 = {
+        nome: 'JAPAO',
+        categoria: 'LUGARES'
+    },
+    palavra0076 = {
+        nome: 'JORDANIA',
+        categoria: 'LUGARES'
+    },
+    palavra0077 = {
+        nome: 'KIRIBATI',
+        categoria: 'LUGARES'
+    },
+    palavra0078 = {
+        nome: 'KOSOVO',
+        categoria: 'LUGARES'
+    },
+    palavra0079 = {
+        nome: 'KUWAIT',
+        categoria: 'LUGARES'
+    },
+    palavra0080 = {
+        nome: 'LAOS',
+        categoria: 'LUGARES'
+    },
+    palavra0081 = {
+        nome: 'LESOTO',
+        categoria: 'LUGARES'
+    },
+    palavra0082 = {
+        nome: 'LETONIA',
+        categoria: 'LUGARES'
+    },
+    palavra0083 = {
+        nome: 'LIBANO',
+        categoria: 'LUGARES'
+    },
+    palavra0084 = {
+        nome: 'LIBERIA',
+        categoria: 'LUGARES'
+    },
+    palavra0085 = {
+        nome: 'LIBIA',
+        categoria: 'LUGARES'
+    },
+    palavra0086 = {
+        nome: 'LITUANIA',
+        categoria: 'LUGARES'
+    },
+    palavra0087 = {
+        nome: 'LUXEMBURGO',
+        categoria: 'LUGARES'
+    },
+    palavra0088 = {
+        nome: 'MADAGASCAR',
+        categoria: 'LUGARES'
+    },
+    palavra0089 = {
+        nome: 'MALASIA',
+        categoria: 'LUGARES'
+    },
+    palavra0090 = {
+        nome: 'MALDIVAS',
+        categoria: 'LUGARES'
+    },
+    palavra0091 = {
+        nome: 'MALTA',
+        categoria: 'LUGARES'
+    },
+    palavra0092 = {
+        nome: 'MARROCOS',
+        categoria: 'LUGARES'
+    },
+    palavra0093 = {
+        nome: 'MEXICO',
+        categoria: 'LUGARES'
+    },
+    palavra0094 = {
+        nome: 'MOCAMBIQUE',
+        categoria: 'LUGARES'
+    },
+    palavra0095 = {
+        nome: 'MOLDAVIA',
+        categoria: 'LUGARES'
+    },
+    palavra0096 = {
+        nome: 'MONACO',
+        categoria: 'LUGARES'
+    },
+    palavra0097 = {
+        nome: 'NEPAL',
+        categoria: 'LUGARES'
+    },
+    palavra0098 = {
+        nome: 'NIGERIA',
+        categoria: 'LUGARES'
+    },
+    palavra0099 = {
+        nome: 'NORUEGA',
+        categoria: 'LUGARES'
+    },
+    palavra00100 = {
+        nome: 'PALESTINA',
+        categoria: 'LUGARES'
+    },
+    palavra00101 = {
+        nome: 'PANAMA',
+        categoria: 'LUGARES'
+    },
+    palavra00102 = {
+        nome: 'PARQUISTAO',
+        categoria: 'LUGARES'
+    },
+    palavra00103 = {
+        nome: 'PARAGUAI',
+        categoria: 'LUGARES'
+    },
+    palavra00104 = {
+        nome: 'PERU',
+        categoria: 'LUGARES'
+    },
+    palavra00105 = {
+        nome: 'POLONIA',
+        categoria: 'LUGARES'
+    },
+    palavra00106 = {
+        nome: 'PORTUGUAL',
+        categoria: 'LUGARES'
+    },
+    palavra00107 = {
+        nome: 'ROMENIA',
+        categoria: 'LUGARES'
+    },
+    palavra00108 = {
+        nome: 'RUSSIA',
+        categoria: 'LUGARES'
+    },
+    palavra00109 = {
+        nome: 'SENEGAL',
+        categoria: 'LUGARES'
+    },
+    palavra00110 = {
+        nome: 'SERVIA',
+        categoria: 'LUGARES'
+    },
+    palavra00111 = {
+        nome: 'SIRIA',
+        categoria: 'LUGARES'
+    },
+    palavra00112 = {
+        nome: 'SUDAO',
+        categoria: 'LUGARES'
+    },
+    palavra00113 = {
+        nome: 'SUECIA',
+        categoria: 'LUGARES'
+    },
+    palavra00114 = {
+        nome: 'SUICA',
+        categoria: 'LUGARES'
+    },
+    palavra00115 = {
+        nome: 'TAILANDIA',
+        categoria: 'LUGARES'
+    },
+    palavra00116 = {
+        nome: 'TAIWAN',
+        categoria: 'LUGARES'
+    },
+    palavra00117 = {
+        nome: 'TANZANIA',
+        categoria: 'LUGARES'
+    },
+    palavra00118 = {
+        nome: 'TUNISIA',
+        categoria: 'LUGARES'
+    },
+    palavra00119 = {
+        nome: 'TURQUIA',
+        categoria: 'LUGARES'
+    },
+    palavra00120 = {
+        nome: 'VATICANO',
+        categoria: 'LUGARES'
+    },
+    palavra00120 = {
+        nome: 'VIETNA',
+        categoria: 'LUGARES'
+    },
     
     
 ]
